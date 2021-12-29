@@ -6,6 +6,7 @@ build-backend = "flit_core.buildapi"
 name = "hanieh-release"
 authors = [{name = "Hanieh", email = "st.honeyeh@gmail.com"}]
 readme = "README.md"
+home-page = "https://github.com/haniehst/hanieh-release"
 classifiers = [
     "License :: OSI Approved :: MIT License",
     "Programming Language :: Python :: 3",
