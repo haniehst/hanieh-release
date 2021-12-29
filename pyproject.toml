@@ -4,7 +4,7 @@ build-backend = "flit_core.buildapi"
 
 [project]
 name = "hanieh-release"
-authors = [{name = "Hanieh", email = "st.honeyeh@gmail.com"}]
+authors = [{name = "Hanieh Salmantaheri", email = "st.honeyeh@gmail.com"}]
 readme = "README.md"
 home-page = "https://github.com/haniehst/hanieh-release"
 dist-name = "hanieh-release"
